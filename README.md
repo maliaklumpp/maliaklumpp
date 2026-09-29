@@ -4,10 +4,10 @@
 # Malia Klumpp
 
 ## Education Eastern Michigan University
--GPA: 4.0 Completed Credits: 61
--Graduation: May 2029
--Double Majors: Cybersecurity, Computer Science
--Double Minors: Digital Forensics, Information Assurance
+-GPA: 4.0 Completed Credits: 61  
+-Graduation: May 2029  
+-Double Majors: Cybersecurity, Computer Science  
+-Double Minors: Digital Forensics, Information Assurance  
 
 
 
