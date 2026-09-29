@@ -5,9 +5,9 @@
 
 ## Education 
 **Eastern Michigan University**
-- GPA: 4.0  
-- Graduation: May 2029  
-- Completed Credits: 61  
+- GPA: 4.0    
+- Completed Credits: 61
+- Expected Graduation: May 2029
 - Majors: Cybersecurity, Computer Science  
 - Minors: Digital Forensics, Information Assurance
 
