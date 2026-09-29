@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Malia Klumpp</h1>
-  <h2>Double Majors: Cybersecurity and Computer Science</h2> 
-  Double Minors: Digital Forensics and Information Assurance
+  <h2>Double Majors: Cybersecurity and Computer Science<
+  Double Minors: Digital Forensics and Information Assurance</h2>
 </div>
 
 
