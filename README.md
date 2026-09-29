@@ -1,4 +1,7 @@
-## Hi there 👋
+# Malia Klumpp
+## Double Majors: Cybersecurity and Computer Science 
+
+
 
 <!--
 **maliaklumpp/maliaklumpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
