@@ -11,7 +11,7 @@
 - Majors: Cybersecurity, Computer Science  
 - Minors: Digital Forensics, Information Assurance
 
-##Contact Me
+## Contact Me
 [LinkedIn](https://www.linkedin.com/in/yourname)
 
 
