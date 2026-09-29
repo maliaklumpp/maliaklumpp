@@ -1,5 +1,5 @@
 
-<div align="center">
+
 
 # Malia Klumpp
 
@@ -13,8 +13,6 @@
 
 
 
-
-</div>
 
 
 
