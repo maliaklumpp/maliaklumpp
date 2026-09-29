@@ -12,7 +12,7 @@
 - Minors: Digital Forensics, Information Assurance
 
 ## Contact Me
-[LinkedIn](https://www.linkedin.com/in/yourname)
+[LinkedIn](https://www.linkedin.com/in/maliajklumpp)
 
 
 
