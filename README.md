@@ -3,10 +3,14 @@
 
 # Malia Klumpp
 
-Double Majors: Cybersecurity and Computer Science  
-Double Minors: Digital Forensics and Information Assurance
+## Double Majors: Cybersecurity and Computer Science  
+## Double Minors: Digital Forensics and Information Assurance
 
 </div>
+
+#Header 3
+
+Regular text
 
 
 <!--
